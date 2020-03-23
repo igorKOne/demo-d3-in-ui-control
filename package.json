@@ -20,8 +20,7 @@
   },
   "homepage": "https://github.com/mlenkeit/ui5con-2019-d3js#readme",
   "dependencies": {
-    "@ui5/cli": "1.5.5",
-    "d3": "5.9.7"
+    "@ui5/cli": "1.5.5"
   },
   "devDependencies": {
     "express": "^4.16.2",

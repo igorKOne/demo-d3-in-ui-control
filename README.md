@@ -1,19 +1,6 @@
 ## See the app running on GitHub Pages 
-[./webapp/index.html](./webapp/index.html)
+[UI5 Webapp Index Page](./webapp/index.html)
 
-## Run the Custom Control
-
-```
-$ npm install
-$ npm start
-```
-
-## Run the Presentation with reveal.js
-
-```
-$ npm install
-$ npm run slides
-```
 
 ## Misc
 
