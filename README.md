@@ -1,5 +1,5 @@
 ## See the app running on GitHub Pages 
-[.webapp/index.html] (index.html)
+[./webapp/index.html](./webapp/index.html)
 
 ## Run the Custom Control
 
