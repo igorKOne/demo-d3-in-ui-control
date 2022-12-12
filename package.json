@@ -23,7 +23,7 @@
     "@ui5/cli": "1.5.5"
   },
   "devDependencies": {
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "grunt": "^1.0.4"
   }
 }
